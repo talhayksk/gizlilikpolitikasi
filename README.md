@@ -1,4 +1,4 @@
-# gizlilikpolitikasi
+# Gizlilik Politikası
 
 
 Gizlilik Politikası
