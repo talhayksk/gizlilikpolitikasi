@@ -3,9 +3,9 @@
 
 Gizlilik Politikası
 
-Son Güncelleme: [Bugünün Tarihini Yazın, örn: 22 Ekim 2025]
+Son Güncelleme: [ 22 Ekim 2025]
 
-Bu gizlilik politikası, [Geliştirici Adınızı Yazın] ("biz", "bize" veya "bizim") tarafından geliştirilen Namaz Vakitleri ("Uygulama") için geçerlidir.
+Bu gizlilik politikası, Talha Yüksek tarafından geliştirilen Namaz Vakitleri ("Uygulama") için geçerlidir.
 
 Veri Toplama ve Kullanma
 
